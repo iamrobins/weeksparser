@@ -1,4 +1,4 @@
-class WeeksFinder {
+class WeeksParser {
   daysInMonth = (month, year) => new Date(year, month + 1, 0).getDate();
 
   weekDaysM = (week, month, year) => {
@@ -27,4 +27,4 @@ class WeeksFinder {
   };
 }
 
-module.exports = WeeksFinder;
+module.exports = WeeksParser;
