@@ -2,8 +2,8 @@
 ### WeeksParser lets you find all week days of any given month or a year<br />
 <strong>Total Days In January</strong> 31<br />
 All Fridays In Januray 2021 [ '01', '08', '15', '22', '29' ]<br />
-All Fridays In 2021 [
-  [ '01', '08', '15', '22', '29' ],<br />
+All Fridays In 2021 [<br />
+  &nbsp;[ '01', '08', '15', '22', '29' ],<br />
   [ '05', '12', '19', '26' ],<br />
   [ '05', '12', '19', '26' ],<br />
   [ '02', '09', '16', '23', '30' ],<br />
